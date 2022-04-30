@@ -1,0 +1,15 @@
+D:\selfDream\Works\Tools\UPCreator\bin\Debug\net6.0\UPCreator.exe
+D:\selfDream\Works\Tools\UPCreator\bin\Debug\net6.0\UPCreator.deps.json
+D:\selfDream\Works\Tools\UPCreator\bin\Debug\net6.0\UPCreator.runtimeconfig.json
+D:\selfDream\Works\Tools\UPCreator\bin\Debug\net6.0\UPCreator.dll
+D:\selfDream\Works\Tools\UPCreator\bin\Debug\net6.0\UPCreator.pdb
+D:\selfDream\Works\Tools\UPCreator\obj\Debug\net6.0\UPCreator.csproj.AssemblyReference.cache
+D:\selfDream\Works\Tools\UPCreator\obj\Debug\net6.0\UPCreator.GeneratedMSBuildEditorConfig.editorconfig
+D:\selfDream\Works\Tools\UPCreator\obj\Debug\net6.0\UPCreator.AssemblyInfoInputs.cache
+D:\selfDream\Works\Tools\UPCreator\obj\Debug\net6.0\UPCreator.AssemblyInfo.cs
+D:\selfDream\Works\Tools\UPCreator\obj\Debug\net6.0\UPCreator.csproj.CoreCompileInputs.cache
+D:\selfDream\Works\Tools\UPCreator\obj\Debug\net6.0\UPCreator.dll
+D:\selfDream\Works\Tools\UPCreator\obj\Debug\net6.0\refint\UPCreator.dll
+D:\selfDream\Works\Tools\UPCreator\obj\Debug\net6.0\UPCreator.pdb
+D:\selfDream\Works\Tools\UPCreator\obj\Debug\net6.0\UPCreator.genruntimeconfig.cache
+D:\selfDream\Works\Tools\UPCreator\obj\Debug\net6.0\ref\UPCreator.dll
