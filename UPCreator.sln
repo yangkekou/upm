@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UPCreator", "UPCreator.csproj", "{04F7ADD8-BAB4-4738-B6C8-2BC6CE9531F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{30683F7D-B86C-4D70-8631-0330CB5EA928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UPCreatorTest", "test\UPCreatorTest\UPCreatorTest.csproj", "{CF0B6BA7-78C0-42AA-BC4B-76C6712EEF1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -10,5 +16,18 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04F7ADD8-BAB4-4738-B6C8-2BC6CE9531F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F7ADD8-BAB4-4738-B6C8-2BC6CE9531F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F7ADD8-BAB4-4738-B6C8-2BC6CE9531F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F7ADD8-BAB4-4738-B6C8-2BC6CE9531F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF0B6BA7-78C0-42AA-BC4B-76C6712EEF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0B6BA7-78C0-42AA-BC4B-76C6712EEF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0B6BA7-78C0-42AA-BC4B-76C6712EEF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0B6BA7-78C0-42AA-BC4B-76C6712EEF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CF0B6BA7-78C0-42AA-BC4B-76C6712EEF1C} = {30683F7D-B86C-4D70-8631-0330CB5EA928}
 	EndGlobalSection
 EndGlobal

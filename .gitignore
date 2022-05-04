@@ -1,3 +1,5 @@
 /bin
 /obj
 .vscode
+/test/UPCreatorTest/bin
+/test/UPCreatorTest/obj
